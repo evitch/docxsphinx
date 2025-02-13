@@ -1,5 +1,5 @@
 pytest==6.0.0
-docutils==0.15
+docutils==0.20.1
 sphinx>=3.0.0
 python-docx>=0.8.0
 
